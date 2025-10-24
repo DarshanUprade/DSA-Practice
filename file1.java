@@ -6,5 +6,8 @@ class file1{
 		System.out.println("ResultSet Object Created");
 		System.out.println("Destory the DB Connection");
 
+
+		// bug 2010 is fixed
+		// Logic to Closed DBConnection
 	}
 }
