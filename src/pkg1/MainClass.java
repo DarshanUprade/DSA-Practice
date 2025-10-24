@@ -52,6 +52,7 @@ class Truck extends Vehicle{
 
 public class MainClass{
 	public static void main(String[] args) {
+		System.out.println("Welcome to Coding Area");
 		Vehicle car=new Car();
 		int chaka=car.wheels(4);
 		System.out.println("No of tiers in Car is::"+chaka);
