@@ -17,9 +17,11 @@ class file1{
 		System.out.println("Excecuting Query");
 		System.out.println("ResultSet Object Created");
 		System.out.println("Destory the DB Connection");
-
+		Connection con=File1.con;
 
 		// bug 2010 is fixed
 		// Logic to Closed DBConnection
+		
+		
 	}
 }
