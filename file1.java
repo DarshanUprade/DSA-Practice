@@ -4,6 +4,7 @@ class file1{
 		System.out.println("Prepared Statement added");
 		System.out.println("Excecuting Query");
 		System.out.println("ResultSet Object Created");
+		System.out.println("Destory the DB Connection");
 
 	}
 }
