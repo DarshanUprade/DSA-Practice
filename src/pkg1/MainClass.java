@@ -59,7 +59,7 @@ public class MainClass{
 		Vehicle t=new Truck();
 		t.wheels(chaka);
 
-
+		System.out.pritln("Connection is Closed");
 	}
 
 }
